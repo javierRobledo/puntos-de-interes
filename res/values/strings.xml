@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mis puntos de interés</string>
+    <string name="addLocationBtn">Añadir punto de interés</string>
+    <string name="viewLocationsBtn">Ver puntos de interés</string>
+    <string name="addLocationName">Introduce la dirección deseada</string>
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_add_location">Añadir punto de interés</string>
+    <string name="title_activity_view_locations">Mis puntos de interés</string>
+    <string name="addLocation_no_connectivity">Sin conexión a internet, conéctese a internet para añadir puntos de interés</string>
+    <string name="addLocation_empty_location">Por favor, introduce una dirección</string>
+    <string name="addLocation_confirm">Confirma que este es el punto de interés buscado:</string>
+    <string name="addLocation_confirm_ok">¡Punto de interés guardado correctamente!</string>
+    <string name="viewLocation_delete_btn">Borrar punto de interés</string>
+
+</resources>
